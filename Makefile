@@ -1,4 +1,4 @@
-obj-m += vfb.o
+obj-m += sh1106_fbd.o
 
 KDIR = /lib/modules/$(shell uname -r)/build
 
